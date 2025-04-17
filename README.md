@@ -80,9 +80,28 @@ ItsMySociety is a web-based society management system developed to streamline co
 
 ## 📱 UI Overview
 
-![Home Page](screenshots/homepage.png)  
-![User Dashboard](screenshots/user_dashboard.png)  
-![Admin Panel](screenshots/admin_dashboard.png)
+A detailed look at the interface of **ItsMySociety** from every user role:
+
+---
+
+### 🏠 Website Viewer Interface
+| Home | Rules | Facilities | Gallery | Contact Us |
+|------|-------|------------|---------|------------|
+| ![Home](screenshots/Home.png) | ![Rules](screenshots/Rules.png) | ![Facilities](screenshots/Facilities.png) | ![Gallery](screenshots/Gallery.png) | ![Contactus](screenshots/Contactus.png) |
+
+---
+
+### 👤 User Panel
+| Register | Login | Dashboard | Complaint Form | Notices | Maintenance | Profile | Change Password |
+|----------|--------|------------|----------------|---------|-------------|---------|------------------|
+| ![Register](screenshots/Register.png) | ![Login](screenshots/userlogin.png) | ![Dashboard](screenshots/userdashboard.png) | ![Complaints](screenshots/usercomplaints.png) | ![Notices](screenshots/usernotices.png) | ![Maintenance](screenshots/usermaintenance.png) | ![Profile](screenshots/userprofile.png) | ![Change Password](screenshots/Changepass.png) |
+
+---
+
+### 🔐 Admin Panel
+| Login | Dashboard | Manage Users | Manage Complaints | Manage Notices | Maintenance | Profile | Contact Messages |
+|--------|-----------|---------------|--------------------|----------------|-------------|---------|------------------|
+| ![Login](screenshots/adminlogin.png) | ![Dashboard](screenshots/admindashboard.png) | ![Users](screenshots/Adminusers.png) | ![Complaints](screenshots/admincomplaints.png) | ![Notices](screenshots/adminnotices.png) | ![Maintenance](screenshots/adminmaintenance.png) | ![Profile](screenshots/adminprofile.png) | ![Contact Messages](screenshots/admincontactus.png) |
 
 ---
 
