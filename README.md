@@ -2,7 +2,9 @@
 
 ItsMySociety is a web-based society management system developed to streamline communication and management within residential societies. This platform allows users to register complaints, check notices, manage maintenance requests, and connect with admins – all through one easy-to-use website.
 
-🔗 **Live Website**: [Click Here](https://itsmysociety.great-site.net) 
+## 🔗 Live Website
+
+You can explore the website here: [ItsMySociety Live Demo](https://itsmysociety.great-site.net)  
 
 ---
 ## ✨ Features
